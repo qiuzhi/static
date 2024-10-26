@@ -4,10 +4,12 @@ DOMAIN-SUFFIX,xzhi.de
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,hostloc.com
 IP-CIDR,38.175.203.136/32,no-resolve
+IP-CIDR6,2606:a8c0:3::927/128,no-resolve
 IP-CIDR,154.17.224.98/32,no-resolve
+IP-CIDR6,2605:52c0:1:184:2879:2bff:fe3a:93a4/128,no-resolve
 IP-CIDR,103.247.28.71/32,no-resolve
-IP-CIDR,38.181.76.176/32,no-resolve
 IP-CIDR6,2401:1fe0::334/128,no-resolve
 IP-CIDR6,2401:1fe0::335/128,no-resolve
 IP-CIDR6,2401:1fe0::336/128,no-resolve
+IP-CIDR,38.181.76.176/32,no-resolve
 IP-CIDR6,2404:c140:1f00:1e::176d/128,no-resolve

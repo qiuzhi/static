@@ -1,5 +1,6 @@
-# 规则名称: Emby
-# 规则统计: 2
+# 规则名称: emby
+# 规则统计: 3
 
+DOMAIN-SUFFIX,tanhuatv.site
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,998903.xyz

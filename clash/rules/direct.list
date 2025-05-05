@@ -7,6 +7,8 @@ IP-CIDR,10.0.0.0/8,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
+IP-CIDR,154.17.12.56/32,no-resolve
+IP-CIDR6,2605:52c0:2:1159:e8e8:43ff:fe80:fa29/128,no-resolve
 IP-CIDR,154.17.224.98/32,no-resolve
 IP-CIDR6,2605:52c0:1:184:2879:2bff:fe3a:93a4/128,no-resolve
 IP-CIDR,5.45.101.234/32,no-resolve

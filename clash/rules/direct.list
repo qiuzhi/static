@@ -1,3 +1,4 @@
+# 自用
 DOMAIN-SUFFIX,iqzhi.com
 DOMAIN-SUFFIX,870211.xyz
 DOMAIN-SUFFIX,xzhi.de
@@ -19,3 +20,6 @@ IP-CIDR,38.207.173.55/32,no-resolve
 IP-CIDR6,2401:1fe0::cf7/128,no-resolve
 IP-CIDR6,2401:1fe0::cf8/128,no-resolve
 IP-CIDR6,2401:1fe0::cf9/128,no-resolve
+
+# Emby
+DOMAIN-SUFFIX,discfan.net

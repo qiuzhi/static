@@ -23,3 +23,6 @@ IP-CIDR6,2401:1fe0::cf9/128,no-resolve
 
 # Emby
 DOMAIN-SUFFIX,discfan.net
+
+# Forum
+DOMAIN-SUFFIX,linux.do

@@ -21,6 +21,9 @@ IP-CIDR6,2401:1fe0::cf7/128,no-resolve
 IP-CIDR6,2401:1fe0::cf8/128,no-resolve
 IP-CIDR6,2401:1fe0::cf9/128,no-resolve
 
+# PT
+DOMAIN-SUFFIX,piggo.me
+
 # Emby
 DOMAIN-SUFFIX,discfan.net
 

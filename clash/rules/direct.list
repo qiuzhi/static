@@ -24,6 +24,9 @@ IP-CIDR6,2401:1fe0::cf9/128,no-resolve
 # HDY | US111
 IP-CIDR,154.217.241.164/32,no-resolve
 
+# Google Play
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
 # PT
 DOMAIN-SUFFIX,piggo.me
 

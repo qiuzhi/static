@@ -26,6 +26,7 @@ IP-CIDR,154.217.241.164/32,no-resolve
 
 # Google Play
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,xn–ngstr-cn-8za9o.com
 
 # PT
 DOMAIN-SUFFIX,piggo.me

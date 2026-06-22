@@ -20,7 +20,7 @@ IP-CIDR6,2401:1fe0::cf7/128,no-resolve
 IP-CIDR6,2401:1fe0::cf8/128,no-resolve
 IP-CIDR6,2401:1fe0::cf9/128,no-resolve
 # Lightlayer | VM-tr6S88Nl
-#IP-CIDR,156.245.207.230/32,no-resolve
+IP-CIDR,156.245.207.230/32,no-resolve
 
 # Google Play
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com

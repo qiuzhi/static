@@ -22,6 +22,7 @@ IP-CIDR6,2401:1fe0::cf9/128,no-resolve
 # Lightlayer | VM-tr6S88Nl
 IP-CIDR,156.245.207.230/32,no-resolve
 
+# 根据来源IP判断
 SRC-IP-CIDR,10.147.19.187/32
 
 # Google Play

@@ -9,18 +9,18 @@ IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 # DMIT | LAX.Pro.MALIBU
-IP-CIDR,154.17.12.56/32,no-resolve
-IP-CIDR6,2605:52c0:2:1159:e8e8:43ff:fe80:fa29/128,no-resolve
+#IP-CIDR,154.17.12.56/32,no-resolve
+#IP-CIDR6,2605:52c0:2:1159:e8e8:43ff:fe80:fa29/128,no-resolve
 # Netcup | 1o
-IP-CIDR,5.45.101.234/32,no-resolve
-IP-CIDR6,2a03:4000:6:94:410:13ff:fece:714/128,no-resolve
+#IP-CIDR,5.45.101.234/32,no-resolve
+#IP-CIDR6,2a03:4000:6:94:410:13ff:fece:714/128,no-resolve
 # VMISS | CN.HK.INTL.Basic
-IP-CIDR,38.207.173.55/32,no-resolve
-IP-CIDR6,2401:1fe0::cf7/128,no-resolve
-IP-CIDR6,2401:1fe0::cf8/128,no-resolve
-IP-CIDR6,2401:1fe0::cf9/128,no-resolve
+#IP-CIDR,38.207.173.55/32,no-resolve
+#IP-CIDR6,2401:1fe0::cf7/128,no-resolve
+#IP-CIDR6,2401:1fe0::cf8/128,no-resolve
+#IP-CIDR6,2401:1fe0::cf9/128,no-resolve
 # Lightlayer | VM-tr6S88Nl
-IP-CIDR,156.245.207.230/32,no-resolve
+#IP-CIDR,156.245.207.230/32,no-resolve
 
 # 根据来源IP判断
 SRC-IP-CIDR,10.147.19.56/32

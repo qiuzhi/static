@@ -27,8 +27,8 @@ SRC-IP-CIDR,10.147.19.56/32
 SRC-IP-CIDR,10.147.19.187/32
 
 # Google Play
-#DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-#DOMAIN-SUFFIX,xn–ngstr-cn-8za9o.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,xn–ngstr-cn-8za9o.com
 
 # AI
 DOMAIN-SUFFIX,hybgzs.com
